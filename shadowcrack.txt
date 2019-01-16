@@ -1,0 +1,5 @@
+O shadowcrack é uma excelente ferramenta para quebra de hash, abaixo deixarem i GIT dela, leiam, e deem o crédito ao autor:
+
+https://github.com/tommelo/shadowcrack
+
+Usem com moderação :)
